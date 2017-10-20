@@ -1,4 +1,4 @@
-//Array_Coding Homework Answers
+//Array_Coding Self coding Homework Answers
 
 public class Question1 {
 
